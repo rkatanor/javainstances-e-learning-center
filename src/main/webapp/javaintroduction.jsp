@@ -34,14 +34,14 @@ Java is a name of an Island which produce coffee in Indonesia.</p>
 <h3>Watch the below video from the experts(James Gosling) for a better understanding ...</h3>
 <br><br>
 
-<iframe width=1000 height="600" src="https://www.youtube.com/embed/uUKDTai2zOE" frameborder="0" allowfullscreen></iframe>
+<iframe width=600 height="400" src="https://www.youtube.com/embed/uUKDTai2zOE" frameborder="0" allowfullscreen></iframe>
  
  <br>
  <br>
  <h3>What is a programmming language ?  Watch the below video to understanding.</h3>
  <br>
  
- <iframe width="1000" height="600" src="https://www.youtube.com/embed/1OukpDfsuXE" frameborder="0" allowfullscreen></iframe>
+ <iframe width="600" height="400" src="https://www.youtube.com/embed/1OukpDfsuXE" frameborder="0" allowfullscreen></iframe>
  
   </article>
 

@@ -32,7 +32,7 @@ Hyderabad-500074
 Eamil: hr@javainstances.com , admin@javainstances.com.
 <br>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3808.1733525849286!2d78.55248051473099!3d17.35538950829569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb98ba0830ef71%3A0xe0d5a299c07eef57!2sJavaInstances+e-Learning+Center!5e0!3m2!1sen!2sin!4v1502804763383" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3808.1734589421853!2d78.55248051496446!3d17.355384388097715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb98ba0830ef71%3A0xe0d5a299c07eef57!2sJavaInstances+e-Learning+Center!5e0!3m2!1sen!2sin!4v1502814781329" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
   </article>

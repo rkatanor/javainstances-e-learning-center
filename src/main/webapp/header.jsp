@@ -53,6 +53,7 @@ article {
 
 <header>
    <h1>Javainstances e learning center</h1>
+   <h4>! Learn Java With Real Objects !</h4>
 </header>
   
 <nav>
@@ -61,7 +62,8 @@ article {
     <li><a href="frameworks.jsp">Java Frameworks</a></li><br>
     <li><a href="tools.jsp">Other Tools</a></li><br>
     <li><a href="contactus.jsp">Contact Us</a></li><br>
-    <li><a href="chatting.jsp">Chat with Us</a></li>
+    <li><a href="chatting.jsp">Chat with Us</a></li><br><br>
+    <li><a href="termsandconditions.jsp">Terms and Conditions</a></li>
     
   </ul>
  

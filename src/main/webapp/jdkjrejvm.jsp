@@ -74,7 +74,7 @@ It is an abstract machine which enables computer to run java programs. It acts a
 </h3>
 <br>
 
- <h3>What is a programmming language ?  Watch the below video to understanding.</h3>
+ <h3>  Watch the below video to understanding better ..</h3>
 <br>
 <iframe width="600" height="400" src="https://www.youtube.com/embed/P9yF2qU8xLI" frameborder="0" allowfullscreen></iframe>
 

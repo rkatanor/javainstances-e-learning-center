@@ -8,17 +8,18 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
+   
 }
 </style>
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
 <article>
-  <h1>What is this website all about ...</h1>
+  <h1><center>Welcome to JavaInstances</center></h1>
   
- <p> We, the Java Instances is a platform where you can find the tutorials related to java and others apis.</p>  
-  <p>We made youre surfing for tutorials easier by embedding all the related youtube videos on this platform, 
-  so that you need not to go anywhere in search of your videos </p>
+ <p> <q>We, the Java Instances is a platform where you can find the tutorials related to java and others apis.  
+  We made youre surfing for tutorials easier by embedding all the related youtube videos on this platform, 
+  so that you need not to go anywhere in search of your videos</q> </p>
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

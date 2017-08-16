@@ -40,7 +40,7 @@ article {
     margin-left: 170px;
     border-left: 1px solid gray;
     overflow: hidden;
-     font-size: large;
+     font-size: medium;
      color: #20B2AA;
      font-family: Courier;
 }

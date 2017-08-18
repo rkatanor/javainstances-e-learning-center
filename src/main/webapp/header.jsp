@@ -63,7 +63,7 @@ article {
     <li><a href="tools.jsp"><font color="orange">Other Tools</font></a></li><br>
     <li><a href="contactus.jsp"><font color="orange">Contact Us</font></a></li><br>
     <li><a href="chatting.jsp"><font color="orange">Chat with Us</font></a></li><br><br>
-    <li><a href="termsandconditions.jsp"><font color="orange">Terms and Conditions</font></a></li>
+    <li><a href="termsandconditions.jsp"><font color="orange">Terms & Conditions</font></a></li>
     
   </ul>
  

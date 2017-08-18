@@ -26,7 +26,7 @@ article {
   When we ran above command a binary file will be created with data of memory occupied by the java program.
   <br>
   <br>
-  eg:      jmap -dump:format=b,file="D:\javainstances\java-dump\mydump.dump"  7620  
+  eg:      jmap -dump:format=b,file=D:\javainstances\java-dump\mydump.dump 7620  
   <br>
   <br>
    Run the above command on cmd and check the created binary file at the given location.
@@ -42,7 +42,7 @@ article {
   Now,run the file with JHAT on command prompt  as below.
   <br>
   <br>
-  eg:  jhat  "D:\javainstances\java-dump\mydump.dump" 
+  eg:  jhat  D:\javainstances\java-dump\mydump.dump
   <br>
   <br>
   Next when we hit enter it starts a server with default port :7000 . Now open browser and connect to port 7000 to check the memory allocated for a particular java program.

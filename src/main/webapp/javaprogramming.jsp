@@ -33,7 +33,7 @@ article {
     <li style="color:orangle;font-size:20px "><a href="javaversions.jsp">Java Releases</a></li><br>
     <li style="color:orangle;font-size:20px "><a href="jdkjrejvm.jsp">Difference between JDK,JRE and JVM</a></li><br>
      <li style="color:orangle;font-size:20px "><a href="jvm.jsp">All about JVM</a></li><br>
-     <li style="color:orangle;font-size:20px"><a href="javaprofiling.jsp">Java Profiling /Monitoring </a></li><br>
+     <li style="color:orangle;font-size:20px"><a href="javamemorymap.jsp">Java Memory Map</a></li><br>
     
     <li style="color:orangle;font-size:20px"><a href="#">First Java Program </a></li><br>
     

@@ -35,7 +35,7 @@
 	<configuration>
 		<url>http://49.206.193.197:8086/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/javainstanceshomepage</path>
+		<path>/javainstanceshome</path>
 	</configuration>
 </plugin>
 </plugins>

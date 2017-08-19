@@ -15,7 +15,7 @@ article {
 <body>
 <jsp:include page="header.jsp"></jsp:include>
 <article>
-  <h1><center>Object Oriented Paradigm</center></h1>
+  <h1><center>Execution  Flow Of  Java Program</center></h1>
   <h3>
   <p>
     If case of Inheritance (Parent , Child relation, flow will be as below)<br><br><br>

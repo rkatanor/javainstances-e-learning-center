@@ -9,10 +9,10 @@ pre
   margin-bottom: 10px;
   overflow: auto;
   width: auto;
-  padding: 5px;
+  
   background-color: #eee;
   width: 600px!ie7;
-  padding-bottom: 20px!ie7;
+  
   max-height: 600px;
 }
 </style>

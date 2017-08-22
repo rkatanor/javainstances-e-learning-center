@@ -13,7 +13,7 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-     font-size: large;
+     font-size: medium;
      color: #900C3F;
      font-family: serif;
 }
@@ -28,26 +28,26 @@ article {
 <br>
 
  <ul>
- <li style="color:orangle;font-size:20px "><a href="oops.jsp">Object Oriented Programming</a></li><br>
+ <li style="color:orangle;font-size:15px "><a href="oops.jsp">Object Oriented Programming</a></li><br>
     
-    <li style="color:orangle;font-size:20px "><a href="javaintroduction.jsp">Introduction to java</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="javaintroduction.jsp">Introduction to java</a></li><br>
     
-    <li style="color:orangle;font-size:20px "><a href="javaversions.jsp">Java Releases</a></li><br>
-    <li style="color:orangle;font-size:20px "><a href="jdkjrejvm.jsp">Difference between JDK,JRE and JVM</a></li><br>
-     <li style="color:orangle;font-size:20px "><a href="jvm.jsp">All about JVM</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="javaversions.jsp">Java Releases</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="jdkjrejvm.jsp">Difference between JDK,JRE and JVM</a></li><br>
+     <li style="color:orangle;font-size:15px "><a href="jvm.jsp">All about JVM</a></li><br>
      
-    <li style="color:orangle;font-size:20px "><a href="programcontrolflow.jsp">Control flow of java program</a></li><br>
-     <li style="color:orangle;font-size:20px"><a href="javamemorymap.jsp">Java Program Memory Monitor </a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="programcontrolflow.jsp">Control flow of java program</a></li><br>
+     <li style="color:orangle;font-size:15px"><a href="javamemorymap.jsp">Java Program Memory Monitor </a></li><br>
     
-    <li style="color:orangle;font-size:20px"><a href="constructors.jsp">Constructors </a></li><br>
+    <li style="color:orangle;font-size:15px"><a href="constructors.jsp">Constructors </a></li><br>
     
-    <li style="color:orangle;font-size:20px "><a href="packages.jsp">Packages</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="packages.jsp">Packages</a></li><br>
     
-    <li style="color:orangle;font-size:20px "><a href="modifiers.jsp">Modifiers</a></li><br>
-    <li style="color:orangle;font-size:20px "><a href="#">Overriding in Java</a></li><br>
-    <li style="color:orangle;font-size:20px "><a href="#">Overloading in Java</a></li><br>
-    <li style="color:orangle;font-size:20px "><a href="#">Inheritance</a></li><br>
-    <li style="color:orangle;font-size:20px "><a href="#">Objects</a></li>
+    <li style="color:orangle;font-size:15px "><a href="modifiers.jsp">Modifiers</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="#">Overriding in Java</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="#">Overloading in Java</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="#">Inheritance</a></li><br>
+    <li style="color:orangle;font-size:15px "><a href="#">Objects</a></li>
  
   </ul>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

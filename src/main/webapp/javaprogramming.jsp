@@ -32,10 +32,11 @@ article {
     
     <li style="color:orangle;font-size:15px "><a href="javaintroduction.jsp">Introduction to java</a></li><br>
     
+    
     <li style="color:orangle;font-size:15px "><a href="javaversions.jsp">Java Releases</a></li><br>
     <li style="color:orangle;font-size:15px "><a href="jdkjrejvm.jsp">Difference between JDK,JRE and JVM</a></li><br>
      <li style="color:orangle;font-size:15px "><a href="jvm.jsp">All about JVM</a></li><br>
-     
+     <li style="color:orangle;font-size:15px "><a href="javabasic.jsp">Java Language Fundamentals</a></li><br>
     <li style="color:orangle;font-size:15px "><a href="programcontrolflow.jsp">Control flow of java program</a></li><br>
      <li style="color:orangle;font-size:15px"><a href="javamemorymap.jsp">Java Program Memory Monitor </a></li><br>
     

@@ -2,24 +2,20 @@
 <html>
 <head>
 <style>
-
-pre
-{
-  font-family: Consolas;
-  margin-bottom: 10px;
-  overflow: auto;
-  width: auto;
-  
-  background-color: #eee;
-  width: 600px!ie7;
-  
-  max-height: 600px;
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+   
 }
 </style>
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
+<article>
   <h1><center>Modifiers !</center></h1>
+  
   <pre>
 Access Modifiers:
 
@@ -56,6 +52,7 @@ Visible to the package and all subclasses (protected).
     
   <iframe width="600" height="400" src="https://www.youtube.com/embed/1MmietzIteA" frameborder="0" allowfullscreen></iframe>
  </pre> 
+ </article>
   <footer>Copyright &copy; javainstances.com   2017</footer>
  
 </body>

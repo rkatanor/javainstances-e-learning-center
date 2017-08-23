@@ -50,7 +50,7 @@ article {
     <li style="color:orangle;font-size:15px "><a href="#">Inheritance</a></li><br>
     
     <li style="color:orangle;font-size:15px "><a href="objectcasting.jsp">Object Type Casting</a></li><br>
-    <li style="color:orangle;font-size:15px "><a href="#">Objects</a></li>
+    <li style="color:orangle;font-size:15px "><a href="nativemethodinvocation.jsp">JNI (Java Native Methods)</a></li>
  
   </ul>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

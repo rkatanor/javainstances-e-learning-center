@@ -21,7 +21,7 @@ article {
 
 We can use parent reference to hold child object.
 
-eg: Object obj =new String (“katanor”);
+eg: Object obj =new String (katanor);
 
 We can also use interface reference to hold implemented class objects.
 
@@ -35,7 +35,7 @@ A b =(C)d;
 
 A -class/interface name
 
-b – name of reference variable
+b- name of reference variable
 
 C- class/interface name
 
@@ -43,13 +43,13 @@ d-name of reference variable
 
 Compile time checking I:
 
-The type of   ‘d’  and  ‘C’  must have some relation. Either child to parent OR parent to
+The type of   d  and  C  must have some relation. Either child to parent OR parent to
  child OR of same type if this not happens we will get compile time error (inconvertable types).
-eg:  Object o=new String (“katanor”);
+eg:  Object o=new String (katanor);
 
          StringBuffer sb = (StringBuffer) o;  valid
 
-eg: String str =new String (“katanor”);
+eg: String str =new String (katanor);
 
       StringBuffer sb=(StringBuffer)str ; invalid –  
 
@@ -57,15 +57,15 @@ inconvertable types because String and StringBuffer has no relation between them
 
 Compile time checking II:
 
- ‘C’  must be either same or derived type of ‘A’ otherwise we will get compile time error saying
+ C  must be either same or derived type of  A otherwise we will get compile time error saying
   (incompatible types)
-eg:  Object o=new String (“katanor”);
+eg:  Object o=new String (katanor);
 
          StringBuffer sb = (StringBuffer) o;  valid
 
  
 
-eg:  Object o=new String (“katanor”);
+eg:  Object o=new String (katanor);
 
       StringBuffer sb=(String)o ; invalid –  
 
@@ -88,13 +88,14 @@ ChildClass  obj2=(ChildClass1)obj;    invalid
 
 Runtime Checking :
 
-Runtime object type of ‘d’ must be either same or derived type of ‘C’  otherwise we will get runtime 
+Runtime object type of d must be either same or derived type of  C  otherwise we will get runtime 
 exception called ClassCastException.
 
 Strictly speaking through typecasting we are not creating any new object.
- For the existing Object we’re providing another type of reference variable i.e we are performing type casting but not object casting.
+ For the existing Object we’re providing another type of reference variable i.e we are performing type casting 
+ but not object casting.
 
-String s =new String (“Rajkumar”);
+String s =new String (Rajkumar);
 
 Object o =(Object)s;
 
@@ -110,7 +111,19 @@ syso(I==n) -true
 
 syso(n==0)-true
 
+finally :
 
+
+
+	     /*                       
+	      *       syntax :   A b = (C)d
+	      *       
+	      *       -  d type and C should have some type of relationship ,
+	      *        either child-parent / parent-child /both same if not will get inconvertable types
+	      *       -  A should be the parent of C  else we get ClassCastException
+	      *       -  runtime object of d should be child of C
+	      */
+	     
 
 
    </h3> 

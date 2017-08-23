@@ -48,6 +48,8 @@ article {
     <li style="color:orangle;font-size:15px "><a href="#">Overriding in Java</a></li><br>
     <li style="color:orangle;font-size:15px "><a href="#">Overloading in Java</a></li><br>
     <li style="color:orangle;font-size:15px "><a href="#">Inheritance</a></li><br>
+    
+    <li style="color:orangle;font-size:15px "><a href="objectcasting.jsp">Object Type Casting</a></li><br>
     <li style="color:orangle;font-size:15px "><a href="#">Objects</a></li>
  
   </ul>
